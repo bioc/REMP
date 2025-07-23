@@ -65,7 +65,7 @@
 #' @importFrom GenomicRanges GRanges GRangesList makeGRangesListFromFeatureFragments findOverlaps
 #' @importFrom GenomicRanges granges seqnames start end strand ranges promoters shift start<- end<-
 #' @importFrom IRanges IRanges IRangesList CharacterList NumericList subsetByOverlaps
-#' @importFrom GenomeInfoDb seqlevels<-
+#' @importFrom Seqinfo seqlevels<-
 #' @importFrom parallel detectCores
 #' @importFrom doParallel registerDoParallel
 #' @importFrom foreach registerDoSEQ
